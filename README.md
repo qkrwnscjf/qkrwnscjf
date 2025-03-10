@@ -1,2 +1,2 @@
-# self - introduction
-박준철 자기소개
+# 안녕하세요 박준철입니다. 데이터 전처리 및 분석, 수집 보관 기술에 관심이 있습니다.
+관심 분야 : Data Engineering
